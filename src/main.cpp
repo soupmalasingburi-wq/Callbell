@@ -5,7 +5,7 @@
 #include "BluetoothA2DPSource.h"
 #include <math.h>
 
-#define SPEAKER_NAME "MyBTSpeaker"
+#define SPEAKER_NAME "X1"
 #define VOLUME 100
 
 TFT_eSPI tft;
